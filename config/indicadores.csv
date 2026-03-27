@@ -1,0 +1,12 @@
+indicador_id,indicador_nome,categoria,subcategoria,unidade,frequencia,fonte,descricao
+pib_total,PIB municipal total,atividade_economica,pib,mil_reais,anual,IBGE,Produto Interno Bruto a precos correntes do municipio
+pib_per_capita,PIB per capita,atividade_economica,pib,reais_por_habitante,anual,IBGE,PIB dividido pela populacao residente
+vab_agropecuaria,VAB da agropecuaria,atividade_economica,vab,mil_reais,anual,IBGE,Valor adicionado bruto da agropecuaria
+vab_industria,VAB da industria,atividade_economica,vab,mil_reais,anual,IBGE,Valor adicionado bruto da industria
+vab_servicos,VAB dos servicos,atividade_economica,vab,mil_reais,anual,IBGE,Valor adicionado bruto dos servicos
+vab_adm_publica,VAB da administracao publica,atividade_economica,vab,mil_reais,anual,IBGE,Valor adicionado bruto da administracao publica
+rais_estoque,Estoque de empregos formais,mercado_de_trabalho,estoque,vinculos,anual,RAIS,Total de vinculos formais no municipio
+rais_remuneracao_media,Remuneracao media formal,mercado_de_trabalho,renda,reais,anual,RAIS,Remuneracao media dos trabalhadores formais
+caged_admissoes,Admissoes,mercado_de_trabalho,fluxo,vinculos,mensal,CAGED,Total de admissoes formais
+caged_desligamentos,Desligamentos,mercado_de_trabalho,fluxo,vinculos,mensal,CAGED,Total de desligamentos formais
+caged_saldo,Saldo de empregos,mercado_de_trabalho,fluxo,vinculos,mensal,CAGED,Admissoes menos desligamentos

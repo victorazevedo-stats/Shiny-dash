@@ -1,0 +1,6 @@
+id_municipio,municipio,uf,ano,indicador,valor,unidade,fonte
+2408102,Natal,RN,2021,pib_per_capita,30850.12,reais_por_habitante,IBGE
+2402006,Caico,RN,2021,pib_per_capita,18420.55,reais_por_habitante,IBGE
+2403251,Parnamirim,RN,2021,pib_per_capita,26540.90,reais_por_habitante,IBGE
+2408003,Mossoro,RN,2021,pib_per_capita,29210.73,reais_por_habitante,IBGE
+2412203,Sao Goncalo do Amarante,RN,2021,pib_per_capita,23880.11,reais_por_habitante,IBGE

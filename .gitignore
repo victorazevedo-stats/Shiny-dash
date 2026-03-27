@@ -1,0 +1,22 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+
+# Dependency managers
+renv/library/
+packrat/lib*/
+
+# Outputs and cache
+outputs/
+*.html
+*.png
+*.pdf
+*.rds
+*.rda
+*.RDataTmp
+
+# Large raw data can stay local unless explicitly versioned
+data-raw/archive/
